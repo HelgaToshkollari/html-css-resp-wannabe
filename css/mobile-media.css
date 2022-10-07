@@ -9,6 +9,13 @@
     .row .col{
         flex-basis: 100%;
     }
-    
+    .steps{
+        margin-bottom: unset;
+    }
+    .why-us{
+        background-color: rgb(20, 18, 18);
+        padding-top: 3rem;
+        margin: 0;
+    }
    
 }
